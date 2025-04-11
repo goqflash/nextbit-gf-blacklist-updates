@@ -6,7 +6,7 @@
     "upgrade_notice" : "Here's why you should upgrade...",
     "author" : "Grigor Asatryan | NextBit",
 	"author_homepage" : "https://asatryangrigor.com/",
-    "download_url" : "https://github.com/goqflash/nextbit-gf-blacklist-updates/main/nextbit-gf-blacklist_v0.0.1.zip",
+    "download_url" : "https://github.com/goqflash/nextbit-gf-blacklist-updates/releases/download/0.0.1/nextbit-gf-blacklist.zip",
     "sections" : {
         "description" : "Gravity Forms Blacklist addon by NextBit."
     }
